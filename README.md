@@ -77,7 +77,8 @@ Each row is one telecom customer.
 
 ## 📊 Power BI Dashboard
 
-<img width="752" height="399" alt="image" src="https://github.com/user-attachments/assets/738f7a0e-f0f0-489e-ae98-e8ec295a6c0f" />
+<img width="752" height="400" alt="image" src="https://github.com/user-attachments/assets/0d57f238-bc6c-44f6-99ac-3d1793b48d76" />
+
 
 
 **KPI cards:** Total Customers · Churned Customers · Retained Customers · Churn Rate · Total Revenue · Average Monthly Charges · Average Tenure
@@ -142,8 +143,5 @@ The notebook reads `Churn_Unclean_Project.xlsx`, so update the file path in the 
 
 **Pradip Kumar Yadav** – Entry-level Data Analyst (SQL · Python · Power BI · Excel)
 
-- LinkedIn: `<add your link>`
-- Email: `<add your email>`
-- GitHub: `<add your profile link>`
 
 ⭐ If you found this project useful, please give it a star!
